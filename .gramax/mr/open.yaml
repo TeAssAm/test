@@ -1,9 +1,9 @@
 creator: TeAssAm <AndSB@yandex.ru>
 targetBranch: master
-createdAt: '2025-06-19 12:23:14'
+createdAt: '2025-06-19 12:56:09'
 approvers:
-- user: TeAssAm <AndSB@yandex.ru>
 - user: TeaAssAm <58573562+TeAssAm@users.noreply.github.com>
+- user: TeAssAm <AndSB@yandex.ru>
 options:
   deleteAfterMerge: true
   squash: false
