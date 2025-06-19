@@ -1,0 +1,9 @@
+creator: TeAssAm <AndSB@yandex.ru>
+targetBranch: master
+createdAt: '2025-06-19 12:12:00'
+approvers:
+- user: TeAssAm <AndSB@yandex.ru>
+options:
+  deleteAfterMerge: true
+  squash: true
+description: ''
