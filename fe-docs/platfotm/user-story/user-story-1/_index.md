@@ -7,10 +7,7 @@ snfsghdjgsjsdjnsvnmcnxv;jdskgcvvcxmsdnsdf sdfdsfdsffsdfsds
 
 |          |   | комментарии |
 |----------|---|-------------|
-| строка 1 |   |             |
+| строка 1 |   | 123         |
 | строка 2 |   |             |
 
-
 леналеналеналеналеналеналеналеналеналеналеналена fbdfbdggbdlgn fdbf,lmdbd ,ddbdfbldf/bd/fbdbd
-
-
