@@ -24,7 +24,3 @@ title: US 1 Просмотр списка правил
 
 
 <plant-uml path="./us-1-prosmotr-spiska-pravil.puml" width="110px" height="120px"/>
-
-
-
-
